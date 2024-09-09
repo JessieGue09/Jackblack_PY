@@ -1,0 +1,13 @@
+#Ignorar archivos .log
+*.log
+
+#Ignorar archivos .pyc
+*.pyc
+
+#Ignorar carpetas de entorno virtual
+venv/
+env/
+
+#Ignorar configuración de sistema o editor 
+.idea/
+.vscode/
